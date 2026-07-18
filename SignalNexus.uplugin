@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"EngineVersion": "5.8.0",
+	"FriendlyName": "SignalNexus — Advanced Runtime Signal Bus",
+	"Description": "A high-performance, decoupled signal & message broker built on hierarchical Gameplay Tags: typed wildcard payloads for Blueprints and C++, middleware interceptors, and immediate / deferred / throttled scheduling. Fully self-contained, no heavy engine module dependencies.",
+	"Category": "Code Plugins",
+	"CreatedBy": "Silvan Teufel — Teufel-Engineering.com",
+	"CreatedByURL": "https://teufel-engineering.com",
+	"DocsURL": "https://wiki.teufel-engineering.com/en/SignalNexus",
+	"MarketplaceURL": "",
+	"SupportURL": "mailto:info@teufel-engineering.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SignalNexus",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+	"Plugins": []
+}

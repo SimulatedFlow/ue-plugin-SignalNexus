@@ -362,8 +362,8 @@ Four ready-made payloads cover common cases with zero boilerplate:
 
 ## 13. Support
 
-- **Author:** Simulated Flow
-- **Support:** simulatedflow@gmail.com
+- **Author:** Silvan Teufel
+- **Support:** teufelsilvan@gmail.com
 - **Docs:** https://github.com/SimulatedFlow
 
-© 2026 Simulated Flow. All Rights Reserved.
+© 2026 Silvan Teufel. All Rights Reserved.

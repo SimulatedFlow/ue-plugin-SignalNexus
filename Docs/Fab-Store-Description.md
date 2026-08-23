@@ -95,4 +95,4 @@ full source and an automation test suite, and drops into any UE 5.8 project in m
 
 ---
 
-© 2026 Simulated Flow
+© 2026 Silvan Teufel

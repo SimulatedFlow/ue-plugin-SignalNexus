@@ -8,7 +8,7 @@
 	"Category": "Code Plugins",
 	"CreatedBy": "Silvan Teufel",
 	"CreatedByURL": "https://silvan.teufel-engineering.com",
-	"DocsURL": "https://github.com/SimulatedFlow/ue-plugin-SignalNexus",
+	"DocsURL": "https://wiki.teufel-engineering.com/en/SignalNexus/documentation",
 	"MarketplaceURL": "",
 	"SupportURL": "mailto:teufelsilvan@gmail.com",
 	"CanContainContent": true,
@@ -21,9 +21,7 @@
 			"Type": "Runtime",
 			"LoadingPhase": "PreDefault",
 			"PlatformAllowList": [
-				"Win64",
-				"Mac",
-				"Linux"
+				"Win64"
 			]
 		}
 	],

@@ -41,8 +41,10 @@ like, in C++ **or** Blueprints.
 **Supported platforms.** SignalNexus is pure gameplay-framework C++ with no
 platform-specific code, no native/third-party libraries and no editor-only
 dependencies. It therefore builds and runs on **all UE-supported platforms**,
-including Windows, macOS, Linux, Android, iOS and the major consoles. There is no
-`PlatformAllowList`/`PlatformDenyList` restriction in the `.uplugin`.
+including macOS, Linux, Android, iOS and the major consoles. The `.uplugin`
+nevertheless lists **`Win64` only** in its `PlatformAllowList`, because Win64 is
+the one platform this release was actually built and tested on. Add a platform to
+that list and rebuild if you target it yourself — the source ships with the plugin.
 
 ---
 

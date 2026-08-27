@@ -50,6 +50,11 @@ Bus->Unsubscribe(Handle);
 
 © 2026 Silvan Teufel
 
+## Documentation
+
+Online, free and without an account: <https://wiki.teufel-engineering.com/en/SignalNexus/documentation> — installation, quick start and the full API.
+The same manual ships with the plugin under `Docs/`.
+
 <!-- SF-STORE-BLOCK:BEGIN -->
 ## 🛒 Source-available — see before you buy
 

@@ -366,6 +366,6 @@ Four ready-made payloads cover common cases with zero boilerplate:
 
 - **Author:** Silvan Teufel
 - **Support:** teufelsilvan@gmail.com
-- **Docs:** https://github.com/SimulatedFlow
+- **Docs:** https://wiki.teufel-engineering.com/en/SignalNexus/documentation
 
 © 2026 Silvan Teufel. All Rights Reserved.
